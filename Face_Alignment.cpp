@@ -14,7 +14,7 @@
 #include <dlib/image_processing.h>
 #include <dlib/opencv/cv_image.h>
 #include <iostream>
-#include "opencv2/photo.hpp"
+//#include "opencv2/photo.hpp"
 #include <dlib/opencv.h>
 #include <dlib/image_processing/frontal_face_detector.h>
 #include <dlib/image_processing/render_face_detections.h>
